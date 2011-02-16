@@ -1,6 +1,6 @@
 // $Id: UPGRADE.txt,v 1.27 2010/10/27 18:32:54 dries Exp $
 
-INTRODUCTION
+INTRODUCTION        .
 ------------
 This document describes how to:
 
